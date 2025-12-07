@@ -1,0 +1,7 @@
+yt-dlp
+ttkbootstrap
+pillow
+moviepy
+opencv-python
+numpy
+requests
